@@ -1,3 +1,6 @@
 [submodule "lib/libopenpst"]
 	path = lib/libopenpst
 	url = https://github.com/openpst/libopenpst
+[submodule "qfprom"]
+	path = qfprom
+	url = https://github.com/ghassani/qfprom-kmod
