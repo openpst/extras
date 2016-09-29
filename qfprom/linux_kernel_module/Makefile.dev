@@ -1,6 +1,6 @@
-KDIR 	:= /path/to/kernel/
+KDIR 	:= ~/Desktop/kbuild/msm395/kernel/
 PWD 	:= $(shell pwd)
-CCPATH 	:= /path/to/arm-linux-androideabi
+CCPATH 	:= ~/Desktop/kbuild/android-ndk-r7b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/linux-x86/bin
 
 VERSION = 3
 PATCHLEVEL = 0
